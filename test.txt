@@ -1,0 +1,6 @@
+This is a test text file.
+Nothing relevant is contained in this file and repository.
+This repository is created just to test the SSH and GPG keys associated with my account.
+If you visited this repository and opened this file,
+then I guess I should say "thank you" for your curiosity.
+Bye!
